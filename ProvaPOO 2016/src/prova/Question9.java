@@ -16,6 +16,9 @@ public class Question9 {
 		
 		cp1.renderJuros(0.01); //render juros na conta do Rafael
 		
+		cp1.limiteChequeEspecial = 1000.00; //limite chque especial Rafael
+		cp2.limiteChequeEspecial = 1000.00; //limite chque especial Douglas
+		
 		cp1.creditar(1000.00); //creditar na conta poupanca do Rafael
 		cp2.creditar(1000.00); //creditar na conta poupanca do Douglas
 		
