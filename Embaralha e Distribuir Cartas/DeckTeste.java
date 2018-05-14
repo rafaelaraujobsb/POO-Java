@@ -1,3 +1,4 @@
+// Exercício do livro JAVA COMO PROGRAMAR
 // Testar o embaralhamento e a distribuição
 
 public class DeckTeste{
